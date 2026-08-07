@@ -6,6 +6,7 @@ import { radialGradientExample } from './radial-gradient';
 import { gradientStrokeExample } from './gradient-stroke';
 import { strokeExample } from './stroke';
 import { pathExample } from './path';
+import { polygonSlicingExample } from './polygon-slicing';
 import { fillRuleExample } from './fill-rule';
 import { fillSpreadExample } from './fill-spread';
 import { opacityExample } from './opacity';
@@ -68,6 +69,7 @@ export const showcaseExamples: ShowcaseExample[] = [
   imageScalingExample,
   opacityExample,
   pathExample,
+  polygonSlicingExample,
   radialGradientExample,
   // sceneExample,
   sceneBlendingExample,
